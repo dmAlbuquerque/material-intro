@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "530306405237",
+    "firebase_url": "https://material-intro-8617c.firebaseio.com",
+    "project_id": "material-intro-8617c",
+    "storage_bucket": "material-intro-8617c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530306405237:android:2df8d550b7bae4f1",
+        "android_client_info": {
+          "package_name": "com.dmalbuquerque.materialintro.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMner7zuBG8BlO7eGCZvF5kQjyo7CvZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530306405237-1e76mhfcd0d9rv9srrio0ek9ddf6it49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
