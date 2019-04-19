@@ -90,7 +90,7 @@ android {
     }
 }
 dependencies {
-    implementation 'com.heinrichreimersoftware:material-intro:1.6.2'
+    implementation 'com.github.dmAlbuquerque:material-intro:1.0.0'
 }
 ```
 
